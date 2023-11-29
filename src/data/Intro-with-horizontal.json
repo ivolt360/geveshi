@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Architecture & interior", "second": "Innovative Architecture" },
+    "content": {
+      "first": "Business with a style that makes a statement."
+    },
+    "image": "/assets/img/slid/n/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Architecture & interior", "second": "Classic and Modern" },
+    "content": {
+      "first": "Revitalize spaces with modern architecture and timeless interior elegance."
+    },
+    "image": "/assets/img/slid/n/3.jpg"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Architecture & interior", "second": "Elegant & Unique Design" },
+    "content": {
+      "first": "Elevate your space with the unparalleled beauty of our distinctive designs."
+    },
+    "image": "/assets/img/slid/n/2.jpg"
+  },
+  {
+    "id": 4,
+    "title": {
+      "first": "Architecture & interior",
+      "second": "Interior Design agency"
+    },
+    "content": {
+      "first": "The right design and the right ideas matter a lot in interior design."
+      
+    },
+    "image": "/assets/img/slid/n/04.jpg"
+  }
+]
